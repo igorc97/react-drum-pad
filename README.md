@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Built With
+
+* [React.js](https://reactjs.org/)
+* [React-audio-pad](https://github.com/darekchynek/react-audio-pad)
+
 ## Available Scripts
 
 In the project directory, you can run:
