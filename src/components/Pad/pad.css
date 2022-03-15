@@ -1,3 +1,7 @@
 pad{
-    background: var(--color-primary);
+    background: black;
+}
+
+h3{
+    text-align: center;
 }

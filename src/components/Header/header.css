@@ -16,6 +16,7 @@ header{
 
 
 
+
 /* Socials */
 
 .header__socials{
@@ -28,6 +29,15 @@ header{
     bottom: 3rem;
 }
 
+.header__socials a{
+    color: var(--color-white);
+}
+
+.header__socials a:hover{
+    color: var(--color-primary);
+    
+}
+
 .header__socials::after{
     content: '';
     width: 1px;
@@ -35,6 +45,9 @@ header{
     background: var(--color-white);
 
 }
+
+
+
 
 .me{
     background: linear-gradient(var(--color-primary), transparent);
